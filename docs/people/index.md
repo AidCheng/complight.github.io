@@ -54,7 +54,7 @@ Ph.D. Student ([University College London](https://www.ucl.ac.uk))
 </div>
 [Zicong Peng (彭子骢)](https://scholar.google.com/citations?user=lpi8DvIAAAAJ&hl=zh-CN)
 
-Close collaborator, Co-supervision
+Close collaborator, Co-supervision with [Hakan Urey](https://mems.ku.edu.tr/)
 
 Ph.D. Student ([Koç University](https://www.ku.edu.tr))
 
